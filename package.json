@@ -1,0 +1,23 @@
+{
+  "name": "wechat-js-sdk",
+  "version": "1.0.0",
+  "description": "wechat  sdk CommonJs",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuoHui/wechat-js-sdk.git"
+  },
+  "keywords": [
+    "wechat",
+    "sdk"
+  ],
+  "author": "Even",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NuoHui/wechat-js-sdk/issues"
+  },
+  "homepage": "https://github.com/NuoHui/wechat-js-sdk#readme"
+}
