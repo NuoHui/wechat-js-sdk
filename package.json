@@ -1,5 +1,5 @@
 {
-  "name": "wechat-js-sdk",
+  "name": "wechat-jssdk",
   "version": "1.0.0",
   "description": "wechat  sdk CommonJs",
   "main": "./src/index.js",
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/NuoHui/wechat-js-sdk/issues"
   },
-  "homepage": "https://github.com/NuoHui/wechat-js-sdk#readme"
+  "homepage": "https://github.com/NuoHui/wechat-js-sdk#readme",
+  "dependencies": {}
 }
