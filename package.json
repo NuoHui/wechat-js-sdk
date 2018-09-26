@@ -1,5 +1,5 @@
 {
-  "name": "wechat-jssdk",
+  "name": "easy-wechat-js-sdk",
   "version": "1.0.0",
   "description": "wechat  sdk CommonJs",
   "main": "./src/index.js",
