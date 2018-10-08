@@ -5,14 +5,14 @@ Api使用文档见[官网](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=
 ## 安装方法
 
 ```
-npm install wechat-js-sdk
+npm install easy-wechat-js-sdk
 
 ```
 
 ## 使用方法
 
 ```
-const wx = require('weixin-js-sdk');
+const wx = require('easy-wechat-js-sdk');
 
 ```
 
